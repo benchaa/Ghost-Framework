@@ -68,7 +68,11 @@ And now we list the files and folders,
 ls -l
 ```
 Then we get the following menu
-<insert img>
+
+
+![Test Image 1](https://github.com/rohith1125/Ghost-Framework/blob/master/1.JPG)
+
+
 Now we must convert it into an excutable 
 ```
 chmod +x install.sh
@@ -86,16 +90,29 @@ sudo ghost
 ```
 Like any other sudo command, kali will ask us to authenticate using password.
 After sucessful authentication we are into the ghost framework,
-<img2>
+
+
+![Test Image 2](https://github.com/rohith1125/Ghost-Framework/blob/master/2.JPG)
+
+
+
 
 Now to list all the commands we run the following command
 ```
 help
 ```
-<img3>
+
+
+
+![Test Image 3](https://github.com/rohith1125/Ghost-Framework/blob/master/3.JPG) 
+
+  
+  
+  
+
 
 This menu displays few core ghost commands like,
-# Core Commands
+### Core Commands
 * clear
 * connect
 * disconnect
@@ -104,7 +121,7 @@ This menu displays few core ghost commands like,
 * update
 
 
-The terms are all self-explainatory, Make sure you have the latest version of the ghost framework running bu using the update command.
+The terms are all self-explanatory, Make sure you have the latest version of the ghost framework running bu using the update command.
 
 Now we use the delivery mechanism, and we can use many mechanisms like,
 USBs, wireless, android debug bridge, and also we can use it as an email payload, so when the victim clicks on the link,
@@ -116,8 +133,19 @@ like a smart speaker connected to the internet.
 
 We can search for databases, servers, and many other similar things.
 And now, with few keywords, we can find the Ip addresses of various vulnerable devices.
-<img4>
+
 Now again back to the ghost framework,
+
+
+
+![Test Image 4](  https://github.com/rohith1125/Ghost-Framework/blob/master/4.JPG) 
+  
+  
+  
+  
+  
+
+
 ```
 connect (IP of target)
 ```
