@@ -14,7 +14,7 @@ This is meant to be a research tool, and please be sure to put on your white hat
 
 **I am not responsible for any of the issues caused by this, anything do it at your own risk**
 
-**it involves huge risk, and one can be considered as trying to hack into it**
+**It involves huge risk, and one can be considered as trying to hack into it. And its a punishable offence**
 
 
 Ghost Framework is an Android post-exploitation framework that exploits the
